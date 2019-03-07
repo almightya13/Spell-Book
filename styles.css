@@ -1,0 +1,29 @@
+.firsttrick {
+    
+}
+.secondtrick {
+   display: flex;
+ justify-content:center;  
+}
+.thirdtrick {
+  display: flex;
+ justify-content:center;   
+}
+.spiderman {
+    width: 600px;
+    height: 340px;
+}
+.groot {
+    width: 600px;
+}
+.thanos {
+    width: 600px;
+}
+.dr {
+    width: 600px;
+}
+.thanosgif {
+    width: 670px;
+    height: 420px;
+}
+    
